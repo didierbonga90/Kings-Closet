@@ -1,4 +1,4 @@
-Throughout this project, I am sharing with you one of my passion : <b>FASHION</b> <br>
+With this project, I am sharing with you one of my passion : <b>FASHION</b> <br>
 This is an E-commerce platform that allows you first, as a <b>USER</b> <i>to follow the process from choosing an item to checkout</i> and as an <b>ADMIN</b> <i>
 to process the client's payment and update the platform's information.</i> <br> <br>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
