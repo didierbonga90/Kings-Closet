@@ -1,10 +1,9 @@
+import React from 'react';
 
-const App = () => 
-  (
-    <div>
+const App = () => (
+    <div className="App">
       <h1>King's Closet</h1>
     </div>
-  )
-
+)
 
 export default App;
